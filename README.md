@@ -17,10 +17,12 @@
 
 - The reason why I decided to use Flexbox is that Flexbox help makes design and build responsive web pages a lot easier. Since I am using Flexbox, Flexbox already doing a lot of responsiveness for me but I still go around to different pages to make sure that everything is displaying as intended. 
 - I also followed the BEM naming convention to name my classes as this help to maintain the code readability and also make it easy if I want to convert my CSS or write my CSS in SaSS.
+- I decided to give all my element tag a classname to prevent any CSS conflict on bigger scale project. 
 
 ## What could I have done better if time was not a constraint
 
 1. I would create a CSS class container to auto-resize images. This way, in any cases where I accidentally use an image that is bigger than the images used on the website. The size of the image will not affect the layout of the website.
 2. I would spend more time looking for the right font to use and make sure I get as close to the expected result as possible.
 3. I would like to test the result on real devices to make sure everything is displaying correctly. 
+4. Create a separate CSS file for code resuability purpose.
 

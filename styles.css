@@ -66,4 +66,8 @@ body {
   .Card__Show {
     width: 40%;
   }
+
+  .Card__Show .Card__image__caption {
+    font-size: 14px;
+  }
 }

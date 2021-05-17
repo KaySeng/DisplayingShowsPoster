@@ -24,9 +24,3 @@
 2. I would spend more time looking for the right font to use and make sure I get as close to the expected result as possible.
 3. I would like to test the result on real devices to make sure everything is displaying correctly. 
 
-## Publishing solution
-
-Push your code into your GitHub or zip up
-
-Host your solution using [GitHub Pages](https://pages.github.com/)
-

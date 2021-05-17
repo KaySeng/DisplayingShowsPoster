@@ -51,7 +51,8 @@ body {
 
 @media only screen and (max-width: 75em) {
   .Card__Show {
-    width: 21%;
+    /* 20% is showing the correct amount of column but not space between. Hence +1% to create the space between poster */
+    width: 21%; 
   }
 }
 
